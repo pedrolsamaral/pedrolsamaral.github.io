@@ -1396,6 +1396,7 @@
       "id": "62580fe93f0bc422709de8b2",
       "name": "r/PatientGamers Essential Games List - PS3",
       "source": "http://patientgamers.net/",
+      "sourceType": "Reddit",
       "year": 2019,
       "games": [
         "5d406f48550c8473135c8336",
@@ -1452,6 +1453,7 @@
       ]
     },
     {
+      "id": "626507913985646fabac81f1",
       "id": "626507913985646fabac81f1",
       "name": "adventuregamers Top 100 All-Time Adventure Games",
       "source": "https://adventuregamers.com/articles/view/18643",
@@ -4820,6 +4822,7 @@
     {
       "id": "5d42040d8ee76d8b4bc900dc",
       "name": "vg247 top 50 RPG",
+      "sourceType": "vg247",
       "year": 2018,
       "games": [
         "5d406f48550c8473135c8350",
@@ -6589,7 +6592,7 @@
       "source": "https://www.goodreads.com/en/book/show/25721224-the-crpg-book-project",
       "platform": "PC",
       "genre": "RPG",
-      "sourceType": "Individual",
+      "sourceType": "CRPG Book",
       "year": 2019,
       "games": [
         "6202ac4592a725669852545b",
@@ -8871,7 +8874,7 @@
       "name": "Zero Punctuation's Games of the Year",
       "platform": "Multiple",
       "genre": "Multiple",
-      "sourceType": "Individual",
+      "sourceType": "ZeroPunctuation",
       "year": 0,
       "games": [
         "5edfd10f7922da5258b60525",
